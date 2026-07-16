@@ -1,6 +1,0 @@
-jupyter
-matplotlib
-numpy
-pandas
-scikit-learn==1.2.0
-seaborn
