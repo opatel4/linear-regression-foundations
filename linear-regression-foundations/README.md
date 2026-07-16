@@ -1,4 +1,4 @@
-# Regression Modeling Portfolio
+# Regression Modeling
 
 A progressive collection of regression projects, beginning with core linear-regression concepts and advancing to an end-to-end machine-learning workflow for predicting the Fire Weather Index (FWI).
 
